@@ -12,6 +12,7 @@ A simple calculator written in c language which performs basic arithmetic operat
 ## How to compile and run
 ## Using GCC :
 gcc calculator.c
+
 ./a.exe
 
 ## Output
@@ -24,8 +25,13 @@ Please choose the operation you want to perform :-
 5. Modulus
 6. Power
 7. Exit
+   
 Now enter your choice : 3
+
 Please enter your first number : 2
+
 Please enter your second number : 8
+
 Result of operation is : 16.000000
+
 -------------------------------------------
